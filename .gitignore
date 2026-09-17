@@ -1,0 +1,6 @@
+# Never commit the private Canvas build (names and numbers)
+canvas-page*.html
+canvas-block*.html
+build_canvas.py
+REFRESH-private.md
+.DS_Store

@@ -38,7 +38,7 @@ Rarely. The monthly refresh happens in Canvas, not here. Edit `index.html` only 
 - One self-contained `index.html`. It has inline CSS and JS, and the RJ mark is a base64 image. Its only outside load is IBM Plex Mono from Google Fonts. **No `fetch()`, no `data.js`.**
 - Look: charcoal `#2a2a2a` bands, RJ red `#c11430`, `#fafafa` cards, uppercase 10px tags, Segoe UI for text and IBM Plex Mono for numbers.
 - When framed (`html.framed`), the page hides its own header band, section heading, footer and suite footer, because the Canvas page supplies those.
-- The Canvas iframe is 960px tall. The card and How to play sit side by side at 761px and wider, and stack below that.
+- The Canvas iframe is 1000px tall (a 1280px browser window gives Canvas an ~857px-wide frame). The card and How to play sit side by side at 761px and wider, and stack below that.
 - The card is always 4×4, including on phones. Four in a **row or column** wins. Diagonals don't count.
 - **Subject-specific tools:** a square can carry `variants`, each with `subjects` (`math`, `science`, `english` or `languages`), a short `tag`, `text`, `how` and `url`. Teachers pick "I teach" above the card, and it's saved as `rtb-subject`.
   - A subject-only tool (DeltaMath and Desmos for math, Gizmos for science, NoRedInk for English, VHL Central for languages) must never be a square everyone sees. Put it in a variant, and make the base square something any teacher can do.

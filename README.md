@@ -10,4 +10,4 @@ It's embedded in the **Raider Tool Board** page of the faculty PD course in Canv
 - Teachers pick their subject first, so math, science, English and language teachers get squares for their own tools.
 - Marks are saved in the browser only. Nothing is sent anywhere.
 
-Regis Jesuit High School · Educational Technology
+

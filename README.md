@@ -11,3 +11,7 @@ It's embedded in the **Raider Tool Board** page of the faculty PD course in Canv
 - Marks are saved in the browser only. Nothing is sent anywhere.
 
 
+
+## License
+
+© 2026 Jason Beyer, RJ Ed Tech. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): free to share and adapt for non-commercial use with credit. See [LICENSE](LICENSE) for what the license does not cover.
